@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[My Web Server Directory Finder(WSDF)](https://gist.github.com/Karak002/ba10f7cd27e764ac11f887f152a34696)
+
+
 <!--
 **Karak002/Karak002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
