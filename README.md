@@ -4,6 +4,7 @@
 
 - 💻 I'm a junior developer, but with big ambitions
 
+- 🎧 I only program if I have headphones and a hoodie
 
 <!--
 **Karak002/Karak002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
