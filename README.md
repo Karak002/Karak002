@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[My Web Server Directory Finder(WSDF)](https://gist.github.com/Karak002/ba10f7cd27e764ac11f887f152a34696) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[My Web Server Directory Finder(WSDF)]
 
 - 💻 I'm a junior developer, but with big ambitions
 
