@@ -4,7 +4,7 @@
 
 - 💻 I'm a junior developer, but with big ambitions
 
-- 🎧 I only program if I have headphones and a hoodie
+- 🎧 I only write code if I have headphones and a hoodie
 
 ![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Karak002&theme=blue-green)
 
