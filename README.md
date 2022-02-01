@@ -10,6 +10,9 @@
 
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Karak002&repo=Karak002&countColorcountColor&countColor=%237B1E7B"/>
 
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
+</div>
 
 **Karak002/Karak002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
