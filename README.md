@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[My Web Server Directory Finder(WSDF)]
-
 - 💻 I'm a junior developer, but with big ambitions
 
 - 🎧 I only write code if I have headphones and a hoodie
