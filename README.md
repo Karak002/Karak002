@@ -10,6 +10,8 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
 </div>
 
+<div class="glare-wrapper" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; overflow: hidden; border-radius: 0px; -webkit-mask-image: -webkit-radial-gradient(center, white, black);"><div class="glare" style="position: absolute; top: 50%; left: 50%; transform-origin: 0% 0%; pointer-events: none; width: 433.631px; height: 433.631px; transition: opacity 400ms cubic-bezier(0.03, 0.98, 0.52, 0.99) 0s; transform: rotate(-31.243deg) translate(-50%, -50%); opacity: 0.185168; background: linear-gradient(0deg, rgba(255, 255, 255, 0) 0%, rgb(255, 255, 255) 100%);"></div></div>
+
 
 <!--
 
